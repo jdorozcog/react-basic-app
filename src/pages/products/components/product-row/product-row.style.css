@@ -1,0 +1,25 @@
+.product-row-container{
+        width: 95%;
+        margin: 0 auto;
+        min-height: 27px;
+        border:1px solid red;
+        margin-top: 5px;
+}
+.name{
+        text-align: left;
+        margin-left: 20px;
+        font-weight: bold;
+        
+}
+.name1{
+        text-align: left;
+        margin-left: 10px;
+        font-weight: bold;
+        
+}
+.name2{
+        text-align: left;
+        margin-left: 10px;
+        
+}
+
