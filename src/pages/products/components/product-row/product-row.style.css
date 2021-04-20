@@ -20,6 +20,24 @@
 .name2{
         text-align: left;
         margin-left: 10px;
+        font-weight: normal;
         
 }
 
+.table{
+        padding-left: 30px;
+}
+
+.table1{
+        padding-left: 14px;
+        
+}
+
+.style{
+        font-weight: normal;
+}
+
+.style1{
+        font-weight: bold;
+        color: red;
+}
